@@ -1,0 +1,18 @@
+[
+  {
+    "name": "sessionid",
+    "value": "xxxx",
+    "domain": ".tiktok.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "sessionid_ss",
+    "value": "xxxxx",
+    "domain": ".tiktok.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true
+  }
+]
